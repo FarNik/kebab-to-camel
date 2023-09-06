@@ -1,0 +1,13 @@
+{
+    "name": "kebab-to-camel-test-pkg",
+    "version": "1.0.0",
+    "description": "Kebab to Camel case converter",
+    "main": "index.js",
+    "keywords": ["Camel", "Kebab", "Case"],
+    "author": "https://github.com/farnik",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FarNik/kebab-to-camel.git"
+	},
+    "license": "MIT"
+}
