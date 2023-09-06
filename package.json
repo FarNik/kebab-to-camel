@@ -1,6 +1,6 @@
 {
     "name": "kebab-to-camel-test-pkg",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Kebab to Camel case converter",
     "main": "index.js",
     "keywords": ["Camel", "Kebab", "Case"],
